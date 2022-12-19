@@ -1,7 +1,7 @@
 
 <!--<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>-->
 <p align="center">
-    ![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 
 <!--
