@@ -1,6 +1,8 @@
 
 <!--<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>-->
-<p align="center">![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)</p>
+<p align="center">
+    ![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+</p>
 
 <!--
 **WhiteHatGamer/WhiteHatGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
