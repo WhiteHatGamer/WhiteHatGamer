@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
 </iframe>
 <p>
@@ -8,7 +8,7 @@
 </p>
 <!--
 **WhiteHatGamer/WhiteHatGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
